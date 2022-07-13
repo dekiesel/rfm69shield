@@ -1,0 +1,38 @@
+"Source:","/home/david/rfm69shild/shield/shield.kicad_sch"
+"Date:","Wed 13 Jul 2022 02:34:26 PM CEST"
+"Tool:","Eeschema 6.0.2+dfsg-1"
+"Generator:","/usr/share/kicad/plugins/bom_csv_grouped_by_value.py"
+"Component Count:","12"
+
+"Individual Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet"
+"","","C1","C Voltage Divider","Device:C","Capacitor_SMD:C_0402_1005Metric","~"
+"","","C2","C Booster","Device:C","Capacitor_THT:CP_Axial_L10.0mm_D4.5mm_P15.00mm_Horizontal","~"
+"","","J1","Booster","Connector:Conn_01x03_Female","Capacitor_THT:CP_Axial_L10.0mm_D4.5mm_P15.00mm_Horizontal","~"
+"","","J2","Battery","Connector:Conn_01x02_Female","Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Horizontal","~"
+"","","P1","Digital","Connector_Generic:Conn_01x12","Socket_Arduino_Pro_Mini:Socket_Strip_Arduino_1x12","~"
+"","","P2","COM","Connector_Generic:Conn_01x06","Socket_Arduino_Pro_Mini:Socket_Strip_Arduino_1x06","~"
+"","","P3","ADC","Connector_Generic:Conn_01x02","Socket_Arduino_Pro_Mini:Socket_Strip_Arduino_1x02","~"
+"","","P4","Analog","Connector_Generic:Conn_01x12","Socket_Arduino_Pro_Mini:Socket_Strip_Arduino_1x12","~"
+"","","P5","ADC","Connector_Generic:Conn_01x02","Socket_Arduino_Pro_Mini:Socket_Strip_Arduino_1x02","~"
+"","","R1","R1","Device:R","Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical","~"
+"","","R2","R2","Device:R","Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical","~"
+"","","U1","RFM69HW","RF_Module:RFM69HW","RF_Module:HOPERF_RFM69HW","https://www.hoperf.com/data/upload/portal/20181127/5bfcbb56f1fd7.pdf"
+
+
+
+"Collated Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet"
+"1","1","C1","C Voltage Divider","Device:C","Capacitor_SMD:C_0402_1005Metric","~"
+"2","1","C2","C Booster","Device:C","Capacitor_THT:CP_Axial_L10.0mm_D4.5mm_P15.00mm_Horizontal","~"
+"3","1","J1","Booster","Connector:Conn_01x03_Female","Capacitor_THT:CP_Axial_L10.0mm_D4.5mm_P15.00mm_Horizontal","~"
+"4","1","J2","Battery","Connector:Conn_01x02_Female","Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Horizontal","~"
+"5","1","P1","Digital","Connector_Generic:Conn_01x12","Socket_Arduino_Pro_Mini:Socket_Strip_Arduino_1x12","~"
+"6","1","P2","COM","Connector_Generic:Conn_01x06","Socket_Arduino_Pro_Mini:Socket_Strip_Arduino_1x06","~"
+"7","2","P3, P5","ADC","Connector_Generic:Conn_01x02","Socket_Arduino_Pro_Mini:Socket_Strip_Arduino_1x02","~"
+"8","1","P4","Analog","Connector_Generic:Conn_01x12","Socket_Arduino_Pro_Mini:Socket_Strip_Arduino_1x12","~"
+"9","1","R1","R1","Device:R","Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical","~"
+"10","1","R2","R2","Device:R","Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical","~"
+"11","1","U1","RFM69HW","RF_Module:RFM69HW","RF_Module:HOPERF_RFM69HW","https://www.hoperf.com/data/upload/portal/20181127/5bfcbb56f1fd7.pdf"
