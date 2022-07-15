@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "MySymbols")(type "KiCad")(uri "/home/david/rfm69shild/symbols/MySymbols.kicad_sym")(options "")(descr ""))
+)
