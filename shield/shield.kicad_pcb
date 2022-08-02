@@ -986,7 +986,7 @@
   (gr_text "Vout" (at 101.6 100.076 90) (layer "F.SilkS") (tstamp aa2aa2b5-1ef3-429b-985b-94ea29047080)
     (effects (font (size 0.5 0.5) (thickness 0.125)))
   )
-  (gr_text "NSS" (at 99.568 59.944 90) (layer "F.SilkS") (tstamp eb2bb81d-f79f-4421-8e6f-7907bb253dbc)
+  (gr_text "NSS" (at 100.076 59.944 90) (layer "F.SilkS") (tstamp eb2bb81d-f79f-4421-8e6f-7907bb253dbc)
     (effects (font (size 1 1) (thickness 0.15)))
   )
 
